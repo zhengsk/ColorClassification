@@ -444,7 +444,7 @@ export default function ColorSearchDemo() {
         <div className="bg-white rounded-2xl shadow-xl p-8">
           <div className="flex items-center gap-3 mb-8">
             <Palette className="w-8 h-8 text-indigo-600" />
-            <h1 className="text-3xl font-bold text-gray-900">颜色搜索系统演示</h1>
+            <h1 className="text-3xl font-bold text-gray-900">颜色聚合分组系统</h1>
           </div>
 
           {/* 颜色选择器 */}
